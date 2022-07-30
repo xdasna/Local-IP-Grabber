@@ -1,6 +1,6 @@
 @echo.
 @echo                         Local IP Grabber
-@echo                         By: Ajay Gowtham 
+@echo                         By: Kiwo
 
 @ipconfig/all | find "IPv4" 
 @ipconfig/all | find "Subnet Mask"
